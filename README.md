@@ -7,4 +7,4 @@ Check it out at [https://frontendmasters.com/courses/web-development-v3/](https:
 
 Calcualtor logic is all me. HTML and CSS are pretty much straight from the examples he provides.  The emphais of the project was to work on scripting -- not so much the HTML/CSS. 
 
-I already have some ideas for refactoring, but I am goignt o set it aside for now and press on. 
+I already have some ideas for refactoring, but I am going to set it aside for now and press on. 
